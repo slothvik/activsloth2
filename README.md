@@ -2,7 +2,6 @@
 ![header](./skyline.png)
  
 ## 💫 About Me:
-I'm Sathvik Pasuvula, <br> Computer Science major @Amrita Viswa Vidyapeetham, <br>**Open Source Enthusiast**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathvik9105&label=Profile%20views&color=0065D6&style=flat" alt="sathvik9105" /> </p>
 
@@ -12,11 +11,7 @@ I'm Sathvik Pasuvula, <br> Computer Science major @Amrita Viswa Vidyapeetham, <b
 
 - 🌱 I’m currently learning **<b>Full-Stack Web Development</b>**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sathvik9105](https://github.com/sathvik9105)
-
 - 📫 How to reach me **sathvikpworks@gmail.com**
-
-- 📄 Know more about myself [https://sathvik9105.github.io/](https://sathvik9105.github.io/)
 
 - ⚡ Fun fact **On a mission to save the world—one pull request at a time! 🌐**
 
