@@ -1,5 +1,5 @@
 
-![header](./github-header-image.png)
+![header](./signature.jpg)
  
 ## 💫 About Me:
 I'm Sathvik Pasuvula, <br> Computer Science major @Amrita Viswa Vidyapeetham, <br>**Open Source Enthusiast**.
