@@ -1,5 +1,5 @@
 
-![header](./Screenshot from 2024-07-17 21-49-56.png)
+![header](./skyline.png)
  
 ## 💫 About Me:
 I'm Sathvik Pasuvula, <br> Computer Science major @Amrita Viswa Vidyapeetham, <br>**Open Source Enthusiast**.
