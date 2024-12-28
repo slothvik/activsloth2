@@ -11,4 +11,4 @@ This isn’t my ‘serious dev’ account – it’s my sandbox for random exper
 - A sprinkle of genius (?) – but don’t count on it. 🙃  
 
 Feel free to lurk, laugh, or run away. 🏃‍♂️💨  
-~ Signed, the Master of Spam (5l0thv1k 🦥)
+~ Signed, the Master of Sloth (5l0thv1k 🦥)
